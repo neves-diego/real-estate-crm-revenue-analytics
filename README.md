@@ -40,4 +40,4 @@ Trabalhar com dados de receita de vendas imobiliárias exige atenção a detalhe
 ## Sobre o Autor
 Diego Neves. Jornalista e profissional de Marketing com transição para Análise de Dados.
 
-🔗 LinkedIn: https://www.linkedin.com/in/diego-neves-19274614a/ Experiência de quase 10 anos no mercado imobiliário, atuando com comunicação, relacionamento com clientes e processos comerciais.
+🔗 LinkedIn: https://www.linkedin.com/in/diego-neves-19274614a/
