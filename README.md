@@ -150,12 +150,4 @@ Diego Neves
 Formado em Jornalismo e Marketing
 Atuação profissional em comunicação e relacionamento com cliente no setor imobiliário
 Em transição para a área de Análise de Dados
-
-💡 Posicionamento Estratégico
-
-Este projeto une experiência prática no setor imobiliário com técnicas de análise de dados, demonstrando capacidade de transformar dados em decisões estratégicas orientadas a receita.
-
-Execute as células em sequência.
-Dashboard interativo em Streamlit
-
 Análise de tempo por etapa do funil
