@@ -1,153 +1,43 @@
-# real-estate-crm-revenue-analytics
-Análise de funil de vendas de CRM para o mercado imobiliário, com foco em taxa de conversão, performance por canal, geração de receita e simulação estratégica de investimento.
+# Real Estate CRM – Análise de Receita
 
-📊 Análise de Funil de Vendas Imobiliário (CRM Analytics)
-🎯 Objetivo do Projeto
+Um projeto focado em transformar dados de CRM imobiliário em métricas de receita, permitindo acompanhar o desempenho financeiro e otimizar estratégias comerciais.
 
-Este projeto simula a análise de um funil de vendas de uma imobiliária utilizando dados de CRM (Customer Relationship Management).
+---
 
-O objetivo é responder perguntas estratégicas de negócio:
+## Sobre o projeto
+Trabalhar com dados de receita de vendas imobiliárias exige atenção a detalhes e cruzamento de informações de diferentes fontes. Este projeto foi criado para analisar o histórico de vendas, calcular receitas, identificar tendências e gerar insights que apoiam decisões estratégicas. Ele transforma números em história do negócio, mostrando onde investir atenção para melhorar resultados.
 
-Quais canais de aquisição geram mais receita?
+---
 
-Onde estão os principais gargalos do funil?
+## Tecnologias e ferramentas
+- Python 3.11
+- Pandas e Numpy
+- Matplotlib e Seaborn
+- Jupyter Notebook
 
-Qual é a taxa de conversão por canal?
+---
 
-Qual canal possui maior ticket médio?
+## Como usar
+1. Clone o repositório:  
+   `git clone https://github.com/neves-diego/real-estate-crm-revenue-analytics.git`
+2. Entre na pasta:  
+   `cd real-estate-crm-revenue-analytics`
+3. Instale as dependências:  
+   `pip install -r requirements.txt`
+4. Abra o notebook:  
+   `jupyter notebook Revenue_Analysis.ipynb`
+5. Explore métricas como receita total, média por cliente, ciclo de vendas e comparativos históricos.
 
-Onde investir para maximizar o retorno?
+---
 
-A partir de dados simulados, aplicamos técnicas de Análise Exploratória de Dados (EDA) e métricas de performance comercial para gerar insights acionáveis.
+## Exemplos e visualizações
+- Receita acumulada por período  
+- Comparativo de vendas por corretor ou região  
+- Gráficos de tendências e sazonalidade da receita
 
-🏢 Contexto de Negócio
+---
 
-No mercado imobiliário, o ciclo de vendas é longo e envolve múltiplas etapas:
+## Sobre o Autor
+Diego Neves. Jornalista e profissional de Marketing com transição para Análise de Dados.
 
-Lead
-
-Contato realizado
-
-Visita agendada
-
-Proposta enviada
-
-Fechado
-
-Entender a eficiência de cada etapa e de cada canal de aquisição é fundamental para:
-
-Otimizar orçamento de marketing
-
-Reduzir desperdício de leads
-
-Aumentar conversão
-
-Maximizar receita
-
-🛠 Tecnologias Utilizadas
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Google Colab
-
-🧱 Estrutura do Projeto
-
-O notebook está organizado em etapas:
-
-Setup e configuração do ambiente
-
-Geração de base simulada de CRM (1000 leads)
-
-Feature Engineering
-
-Análise do funil de vendas
-
-Métricas por canal
-
-Simulação de cenário de investimento
-
-Conclusão executiva
-
-📈 Principais Métricas Analisadas
-
-Volume de leads por canal
-
-Taxa de conversão por canal
-
-Receita total por canal
-
-Ticket médio
-
-Tempo médio de ciclo
-
-Receita por lead
-
-Taxa de conversão geral
-
-🔎 Principais Insights
-
-✔️ Gargalo identificado:
-A maior perda de leads ocorre na transição entre Lead e Contato realizado.
-
-✔️ Canal mais eficiente:
-O canal Indicação apresenta maior taxa de conversão e maior receita total, mesmo com menor volume de leads.
-
-✔️ Canal menos eficiente:
-OLX apresenta baixo desempenho em conversão e receita.
-
-✔️ Oportunidade estratégica:
-Uma simulação de aumento de 20% no investimento em Indicação aponta crescimento relevante de receita incremental.
-
-📊 Exemplo de Análises Realizadas
-
-Distribuição de leads por etapa do funil
-
-Receita total por canal
-
-Taxa de conversão comparativa
-
-Simulação de investimento com projeção de receita
-
-🧠 Diferenciais Técnicos do Projeto
-
-
-
-Uso de função para geração de base simulada
-
-Estrutura analítica organizada em pipeline
-
-Separação entre geração, tratamento e análise
-
-Simulação de cenário de negócio
-
-Foco em métricas estratégicas (não apenas descritivas)
-
-📌 Possíveis Evoluções
-
-Análise de Cohort
-
-Modelo preditivo de fechamento (Logistic Regression)
-
-Cálculo de CAC (Custo de Aquisição de Cliente)
-
-🚀 Como Executar
-
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
-Abra o notebook no Google Colab ou Jupyter Notebook.
-
-👤 Autor
-
-Diego Neves
-Formado em Jornalismo e Marketing
-Atuação profissional em comunicação e relacionamento com cliente no setor imobiliário
-Em transição para a área de Análise de Dados
-Análise de tempo por etapa do funil
+🔗 LinkedIn: https://www.linkedin.com/in/diego-neves-19274614a/ Experiência de quase 10 anos no mercado imobiliário, atuando com comunicação, relacionamento com clientes e processos comerciais.
